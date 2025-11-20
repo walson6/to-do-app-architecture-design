@@ -1,4 +1,4 @@
 node_modules/
 db/todos.db
-README.md
+INSTRUCTIONS.md
 .env
